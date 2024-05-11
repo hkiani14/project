@@ -1,7 +1,3 @@
-#Name 1: Ankush Achwani, Student ID: 34367855
-#Name 2: Huzaifa Kiani, Student ID: 34434370
-
-
 from tkinter import *
 from Pixel import Pixel
 import time, random
